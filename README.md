@@ -1,0 +1,1 @@
+# AHK-detect-double-triple-quadruple-keypress
